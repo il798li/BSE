@@ -1,0 +1,9 @@
+{"Simple Multiplication": {
+    "pages": [
+        "To multiply two numbers, arrange them in a grid (array) with the rows and columns corresponding to the two multipliers.",
+        "3 * 4```O  O  O\nO  O  O\nO  O  O\nO  O  O``````1  2  3\n4  5  6\n7  8  9\n10 11 12```",
+        "Now we know that 3 * 4 = 12."
+    ],
+    "id": "simplemultiplication655263219459293210",
+    "userID": 655263219459293210
+}}
